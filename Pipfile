@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+kaggle = "*"
+jupyter = "*"
+lab = "*"
 
 [dev-packages]
 
