@@ -11,6 +11,9 @@ seaborn = "*"
 kaggle = "*"
 jupyter = "*"
 lab = "*"
+sklearn = "*"
+tensorflow = "*"
+pipreqsnb = "*"
 
 [dev-packages]
 
